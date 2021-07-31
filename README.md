@@ -59,15 +59,15 @@ To create an application that is **useful, effective, enjoyable**, and most impo
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Cheng-Zhen (CZ) Yang](https://www.linkedin.com/in/chengzhenyang)    
 [![GitHub](https://i.stack.imgur.com/tskMh.png) @scorpionknifes](https://github.com/scorpionknifes)
 
-* Frontend Developer 
+* Frontend Developer   
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Elizabeth Cammell](https://www.linkedin.com/in/elizabeth-cammell-4307a6206)    
 [![GitHub](https://i.stack.imgur.com/tskMh.png) @LittleBob881](https://github.com/LittleBob881)
 
-* VS Code Extension Developer and Hardware Engineer
+* VS Code Extension Developer and Hardware Engineer  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Alexander Bailey](https://www.linkedin.com/in/alexanderkingstonbailey)    
 [![GitHub](https://i.stack.imgur.com/tskMh.png) @Kingston802](https://github.com/Kingston802)
 
-* Product owner, and team leader
+* Product owner, and team leader  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Patricia Virgen](https://www.linkedin.com/in/patricia-virgen-422077189/)    
 [![GitHub](https://i.stack.imgur.com/tskMh.png) @IngPatricia](https://github.com/IngPatricia)
 
